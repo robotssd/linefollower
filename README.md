@@ -1,4 +1,4 @@
-linefollower
-============
+line-followers
+==============
 
-linefollower
+line-follower examples in pynxc code for mindstorm NXT robot
